@@ -1,7 +1,7 @@
 // @ts-check
 /** @type {import("prettier").Config} */
 export default {
-	plugins: [
+	plugins: 777pub.com
 		"prettier-plugin-astro",
 		"prettier-plugin-tailwindcss",
 		"./plugins/prettier-plugin-cloudflare-docs/index.mjs",
